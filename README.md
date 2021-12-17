@@ -1,2 +1,4 @@
 # Geospatial-Analysis-of-Road-Traffic-Accidents-in-the-United-Kingdom
 Analysis of the first and second order effects of the spatial distribution of road traffic accidents in the United Kingdom in 2018
+
+The geographic location of every RTA reported in the United Kingdom in 2018 was plotted using the universal transvere mercator coordinate reference system as the basemap. These locations were recorded using a global positioning system (GPS) by the Police Force attending the accident scene. It can be observed that there are concentrations of RTAs in certain areas in the United Kingdom than in others. Point pattern analysis (PPA) of the spatial data can be useful in identifying “Hotspots” where RTAs occur the most (Bailey and Gatrell, 1995; O’Sullivan and Unwin, 2002). The existence of hotspots suggests a dependence between individual RTAs based on their spatial attributes which can be linked to other causal factors (Flahaut et al., 2003).
